@@ -40,6 +40,7 @@
 </template>
 
 <script>
+/* Actualizando con las nuevas recomendaciones de vue3 el script deberia de ir en la parte superior del componente y empezar a trabajar con composition y no options */
 export default {
   name: 'SupportView',
   data() {
@@ -68,6 +69,7 @@ export default {
 </script>
 
 <style type="text/css">
+/* Para mejorar la legibilidad de los estilos como desarrollador recomendaria el uso de sass */
 body {
   text-align: center;
 }
